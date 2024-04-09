@@ -1,1 +1,3 @@
-# Kaggle_Spaceshio_Titanic
+# Kaggle_Spaceship_Titanic
+
+This is a Kaggle Competition: Spaceship Titanic
